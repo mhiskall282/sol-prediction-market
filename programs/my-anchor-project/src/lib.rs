@@ -379,3 +379,5 @@ pub enum MarketError {
     #[msg("Market not found")]
     MarketNotFound,
 }
+
+// TODO: add market resolution validation
