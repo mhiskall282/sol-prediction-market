@@ -381,3 +381,4 @@ pub enum MarketError {
 }
 
 // TODO: add market resolution validation
+// betting logic placeholder
